@@ -1,2 +1,2 @@
 # NEMOPerf
-Dataset of NEMO ocean model performance measurements
+Dataset containing the NEMO ocean model performance measurements.
